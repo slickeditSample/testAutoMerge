@@ -2,6 +2,7 @@
 22
 33  ** change in testAutoMerge1
 44
-55
+55  ** change staged
 66
 77
+88
