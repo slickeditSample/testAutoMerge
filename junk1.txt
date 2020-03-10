@@ -1,6 +1,10 @@
 11
 22
+<<<<<<< Updated upstream
 33  ** change in master
+=======
+33  ** change in testAutoMerge1 &&
+>>>>>>> Stashed changes
 44
 55
 66
