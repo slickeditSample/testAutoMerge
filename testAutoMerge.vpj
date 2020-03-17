@@ -4,7 +4,6 @@
     VendorName="SlickEdit"
     TemplateName="Other C/C++"
     WorkingDir=".">
-
     <Config
         Name="Debug"
         Type="cpp"
